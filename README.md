@@ -1,5 +1,6 @@
 # SortViz
 Visualizer for in-place sorting algorithms, implemented in Python and PyGame.
+Inspired by The Sound of Sorting by Timo Bingmann.
 
 ## Features
 - 15 sorting algorithms
